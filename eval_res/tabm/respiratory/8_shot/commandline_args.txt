@@ -1,0 +1,6 @@
+{
+  "dataset": "respiratory",
+  "numshot": 8,
+  "seed": 0,
+  "device": "cuda"
+}

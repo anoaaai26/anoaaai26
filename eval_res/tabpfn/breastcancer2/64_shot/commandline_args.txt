@@ -1,0 +1,6 @@
+{
+  "dataset": "breastcancer2",
+  "numshot": 64,
+  "seed": 0,
+  "device": "cuda"
+}
